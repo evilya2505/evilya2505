@@ -40,8 +40,7 @@
 <h1 align="center">Мои контакты 📪</h1> 
 
 <div align="center">
-[like17seventeen@gmail.com](like17seventeen@gmail.com)
-  
+<a href="like17seventeen@gmail.com">like17seventeen@gmail.com</a>  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/evi_lya)
 </div>
 
