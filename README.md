@@ -11,6 +11,7 @@
 ⭐️ Мне очень нравится процесс разработки интерфейсов, а главное я получаю удовольствие от создания продуктов, которые улучшают жизнь людей.
 
 💻 <b>Я сейчас активно ищу работу. [Мое резюме.](https://drive.google.com/file/d/1XG0BPHdattgy11j5guI45yB3zBMCTbxV/view?usp=sharing)</b>
+
 ⚡ Стек технологий, который я использую:
 - HTML;
 - CSS;
@@ -22,3 +23,5 @@
 - PostgreSQL;
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evilya2505&layout=compact)
+
+[![codewars](https://www.codewars.com/users/evilya/badges/small)](https://www.codewars.com/users/evilya) 
