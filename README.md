@@ -21,3 +21,4 @@
 - MongoDB;
 - PostgreSQL;
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evilya2505&layout=compact)]
