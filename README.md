@@ -1,7 +1,5 @@
 <h1 align="center">Привет, меня зовут Эвелина ✨</h1>
 
-<hr/>
-
 <b>Я фронтенд разработчик из России.</b>
 
 🔭 В данный момент я:
@@ -39,11 +37,11 @@
 
 [![codewars](https://www.codewars.com/users/evilya/badges/large)](https://www.codewars.com/users/evilya)   
 
-<hr/>
-
 <h1 align="center">Мои контакты 📪</h1> 
 
-<p align="center">[like17seventeen@gmail.com](like17seventeen@gmail.com)</p>
-
-<div align="center">[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/evi_lya)</div>
+<div align="center">
+[like17seventeen@gmail.com](like17seventeen@gmail.com)
+  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/evi_lya)
+</div>
 
