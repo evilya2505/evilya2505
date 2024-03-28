@@ -1,16 +1,24 @@
-### Hi there 👋
+### Привет, меня зовут Эвелина ✨
 
-<!--
-**evilya2505/evilya2505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>Я фронтенд разработчик из России.</b>
 
-Here are some ideas to get you started:
+🔭 В данный момент я:
+- Делаю пет-проекты и решаю тестовые задания;
+- Участвую в хакатонах;
+- Улучшаю свои теоритеческие знания, читаю книги по JavaScript, CSS и HTML;
+- Решаю задачи на CodeWars.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ Мне очень нравится процесс разработки интерфейсов, а главное я получаю удовольствие от создания продуктов, которые улучшают жизнь людей.
+
+💻 <b>Я сейчас активно ищу работу. [Мое резюме.](https://drive.google.com/file/d/1XG0BPHdattgy11j5guI45yB3zBMCTbxV/view?usp=sharing)</b>
+⚡ Стек технологий, который я использую:
+- HTML;
+- CSS;
+- React;
+- TypeScript;
+- Redux/Redux Toolkit;
+- NodeJS;
+- MongoDB;
+- PostgreSQL;
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
