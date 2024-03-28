@@ -1,4 +1,4 @@
-### Привет, меня зовут Эвелина ✨
+<h1 align="center">Привет, меня зовут Эвелина ✨</h1>
 
 <hr/>
 
@@ -41,9 +41,9 @@
 
 <hr/>
 
-### Мои контакты 📪
+<h1 align="center">Мои контакты 📪</h1> 
 
-[like17seventeen@gmail.com](like17seventeen@gmail.com)
+<p align="center">[like17seventeen@gmail.com](like17seventeen@gmail.com)</p>
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/evi_lya)
+<div align="center">[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/evi_lya)</div>
 
