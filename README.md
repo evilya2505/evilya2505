@@ -10,8 +10,6 @@
 
 ⭐️ Мне очень нравится процесс разработки интерфейсов, а главное я получаю удовольствие от создания продуктов, которые улучшают жизнь людей.
 
-💻 <b>Я сейчас активно ищу работу. [Мое резюме.](https://drive.google.com/file/d/1XG0BPHdattgy11j5guI45yB3zBMCTbxV/view?usp=sharing)</b>
-
 ⚡ Стек технологий, который я использую:
 - HTML;
 - CSS;
@@ -37,10 +35,16 @@
 
 [![codewars](https://www.codewars.com/users/evilya/badges/large)](https://www.codewars.com/users/evilya)   
 
+💻 <b>Я сейчас активно ищу работу. [Мое резюме.](https://drive.google.com/file/d/1XG0BPHdattgy11j5guI45yB3zBMCTbxV/view?usp=sharing)</b>
+
 <h1 align="center">Мои контакты 📪</h1> 
 
 <div align="center">
-<a href="like17seventeen@gmail.com">like17seventeen@gmail.com</a>  
+  
+[like17seventeen@gmail.com](like17seventeen@gmail.com)
+
+  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/evi_lya)
+
 </div>
 
